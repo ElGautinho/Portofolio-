@@ -8,7 +8,6 @@ body{
     width: 100%;
     height: 100%;
     background-color: darkgray;
-    background-imge: url("Background-Portofolio.png");
     background-repeat: no-repeat;
 }
 nav{
@@ -16,7 +15,7 @@ nav{
     width: 84%;
     margin: auto;
     padding: 20px 0;
-    top: 0px
+    top: 0px;
     align-items: center; 
     justify-content: space-between;
 }
