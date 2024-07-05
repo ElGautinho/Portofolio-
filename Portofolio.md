@@ -1,6 +1,7 @@
 /* My first web site porto folio 
 coming fresh from Freecode camp journey i wanted to  try mi first solo project 
 */
+/*while watching a tutoriel and practicing */
 /*here we go with head section*/
 
 <!DOCTYPE html>

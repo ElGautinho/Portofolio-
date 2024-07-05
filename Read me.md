@@ -49,12 +49,6 @@ but at once it wasn't my idea to put a footer section on this website */
             <input type="text" placeholder="Your email" required>
             <button type="submit">SUBSCRIBE</button>
           </form>
-          <div class="icons">
-            <i class="fa-brands fa-facebook-f"></i>
-            <i class="fa-brands fa-twitter"></i>
-            <i class="fa-brands fa-linkedin"></i>
-            <i class="fa-brands fa-github"></i>
-          </div>
         </div>
       </div>
     </section>

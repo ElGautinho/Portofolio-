@@ -7,9 +7,9 @@ body{
     position: relative;
     width: 100%;
     height: 100%;
-    background-color: darkgray;
-    background-repeat: no-repeat;
+    background-color: rgb(91, 95, 93);
 }
+
 nav{
     display: flex;
     width: 84%;
@@ -26,11 +26,11 @@ nav img{
 nav ul li{
     display: inline-block;
     list-style: none;
-    margin: 10px 20px;
+    margin: 10px 10px;
 }
  nav ul li a{
     text-decoration: none;
-    background-color: black;
+    background-color: rgb(1, 19, 5);
     padding: 7px;
     border-radius: 8px;
     color:white;
@@ -52,7 +52,7 @@ span{
     color: rgb(5, 63, 5);
 }
 .me p{
-    color: #555;
+    color: #022b02;
     line-height: 22px;
 }
 .me a{
@@ -71,30 +71,14 @@ span{
 .my-image{
     width: 45%;
     height: 80%;
-    position: absolute;
-    bottom: 0px;
     right: 0px;
+    display: inline-table;
 }
-.my-image img{
-    height: 40vw;
-    position: absolute;
-    left: 50%;
-    bottom: 0px;
-    transform: translatex(-50%);
-    transition: bottom 1s, left 1s;
-}
-.my-image:hover .shape{
-    bottom: 20px
-}
-.my-image:hover .me{
-    left: 100px
-}
+
 /* Importing Google font - Open Sans */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
 /* starting of css temlpate found on internet i'am going to personnilized it */
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
 }
