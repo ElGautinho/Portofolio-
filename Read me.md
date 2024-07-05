@@ -1,40 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equix="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Home</title>
-</head>
-<body>
-   <div class="hero">
-      <nav>
-         <div class="logo">
-            <img class="my-logo" src="Portofolio logo.png">
-         </div>
-        <ul>
-          <li><a href="Home.html">Home</a></li>
-          <li><a href="About.html">About</a></li>
-          <li><a href="Services.html">Services</a></li>
-          <li><a href="Bouquet.html">Bouquet</a></li>
-          <li><a href="Contact.html">Contact</a></li>
-        </ul>
-      </nav>
-   <div class="me">
-       <h1>I,m  <span>Gauthier</span> CHERUBALA</h1>
-       <P>This is my official portofolio website for more 
-         <br>Jobs, details and work experiences about me <br>in Site-Web designs and Ui designs
-      </P>
-      <a href="">DOWLOAD CV</a>
-   </div>
-   <div class="images">
-      <img class="shape" src="my img.png"/>
-      <img class="image" src="img-portofolio.png"/>
-   </div>
-   </div>
-</body>
-  <footer>
+/* the footer section was a template i saw on internet then i dowloaded it to ad it to my portofolio
+but at once it wasn't my idea to put a footer section on this website */
+
+/* i will just have to customize it so it fit to my portofolio design and information */
+
+<footer>
     <section class="footer">
       <div class="footer-row">
         <div class="footer-col">
@@ -47,8 +16,7 @@
             <li><a href="#">Collection</a></li>
           </ul>
         </div>
-
-        <div class="footer-col">
+    <div class="footer-col">
           <h4>Explore</h4>
           <ul class="links">
             <li><a href="#">Free Designs</a></li>
@@ -59,8 +27,7 @@
             <li><a href="#">New Uploads</a></li>
           </ul>
         </div>
-
-        <div class="footer-col">
+    <div class="footer-col">
           <h4>Legal</h4>
           <ul class="links">
             <li><a href="#">Customer Agreement</a></li>
@@ -71,8 +38,7 @@
             <li><a href="#">Media Kit</a></li>
           </ul>
         </div>
-
-        <div class="footer-col">
+    <div class="footer-col">
           <h4>Newsletter</h4>
           <p>
             Subscribe to our newsletter for a weekly dose
@@ -92,5 +58,4 @@
         </div>
       </div>
     </section>
-   </footer> 
-</html>
+ </footer>
