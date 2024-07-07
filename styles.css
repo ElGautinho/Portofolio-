@@ -68,11 +68,10 @@ span{
 .me a:hover{
     color: black;
 }
-.my-image{
-    width: 45%;
-    height: 80%;
-    right: 0px;
-    display: inline-table;
+.images{
+    width: auto;
+    height: 50%;
+    display: flex;
 }
 .hero-box{
     display: flex;
